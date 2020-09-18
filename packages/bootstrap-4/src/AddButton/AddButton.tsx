@@ -1,6 +1,6 @@
 import React from "react";
 
-import { AddButtonProps } from "@rjsf/core";
+import { AddButtonProps } from "@rjsf-koszti/core";
 import Button from "react-bootstrap/Button";
 import { AiOutlinePlus } from "react-icons/ai";
 

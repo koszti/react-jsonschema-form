@@ -1,5 +1,5 @@
 import React from "react";
-import { FieldProps } from "@rjsf/core";
+import { FieldProps } from "@rjsf-koszti/core";
 import { Label } from "@fluentui/react";
 
 const styles = {

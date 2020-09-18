@@ -2,8 +2,8 @@ import React from "react";
 
 import Form from "react-bootstrap/Form";
 
-import { WidgetProps } from "@rjsf/core";
-import { utils } from "@rjsf/core";
+import { WidgetProps } from "@rjsf-koszti/core";
+import { utils } from "@rjsf-koszti/core";
 
 const { asNumber, guessType } = utils;
 
