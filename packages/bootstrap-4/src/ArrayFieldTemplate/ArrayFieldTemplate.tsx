@@ -163,7 +163,7 @@ const DefaultFixedArrayFieldTemplate = (props: ArrayFieldTemplateProps) => {
 
 const DefaultNormalArrayFieldTemplate = (props: ArrayFieldTemplateProps) => {
   return (
-    <div>
+    <div className={props.uiSchema && props.uiSchema.className}>
       <Row className="p-0 m-0">
         <Col className="p-0 m-0">
         <ArrayFieldTitle
