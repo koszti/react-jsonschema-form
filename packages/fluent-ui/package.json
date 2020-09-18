@@ -1,5 +1,5 @@
 {
-  "name": "@rjsf-koszit/fluent-ui",
+  "name": "@rjsf-koszti/fluent-ui",
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/fluent-ui.esm.js",
@@ -15,7 +15,7 @@
   },
   "peerDependencies": {
     "@fluentui/react": "^7.114.2",
-    "@rjsf/core": "^2.0.0",
+    "@rjsf-koszti/core": "^1.0.0",
     "react": ">=16"
   },
   "devDependencies": {
@@ -29,7 +29,7 @@
     "@fluentui/react": "^7.114.2",
     "@material-ui/core": "^4.2.0",
     "@material-ui/icons": "^4.2.1",
-    "@rjsf/core": "^2.4.0",
+    "@rjsf-koszti/core": "^1.0.0",
     "@types/jest": "^24.0.15",
     "@types/json-schema": "^7.0.3",
     "@types/lodash": "^4.14.152",

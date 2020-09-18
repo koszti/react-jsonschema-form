@@ -1,5 +1,5 @@
 {
-  "name": "@rjsf-koszit/semantic-ui",
+  "name": "@rjsf-koszti/semantic-ui",
   "version": "1.0.0",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
@@ -28,7 +28,7 @@
     "test": "cross-env NODE_ENV=test BABEL_ENV=test jest"
   },
   "peerDependencies": {
-    "@rjsf/core": "^2.0.0",
+    "@rjsf-koszti/core": "^1.0.0",
     "lodash": "^4.17.15",
     "react": ">=16",
     "semantic-ui-css": "^2.4.1",
@@ -45,7 +45,7 @@
     "@babel/preset-env": "^7.10.3",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.4.4",
-    "@rjsf/core": "^2.4.0",
+    "@rjsf-koszti/core": "^1.0.0",
     "atob": "^2.0.3",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",

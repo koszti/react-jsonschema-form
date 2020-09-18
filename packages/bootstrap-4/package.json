@@ -14,7 +14,7 @@
     "test": "tsdx test"
   },
   "peerDependencies": {
-    "@rjsf/core": "^2.0.0-alpha.6",
+    "@rjsf-koszti/core": "^1.0.0",
     "react": ">=16",
     "react-bootstrap": "^1.0.1"
   },
@@ -26,7 +26,7 @@
     "@babel/plugin-transform-runtime": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
-    "@rjsf/core": "^2.4.0",
+    "@rjsf-koszti/core": "^1.0.0",
     "@types/jest": "^24.0.15",
     "@types/json-schema": "^7.0.3",
     "@types/react": "^16.9.23",
